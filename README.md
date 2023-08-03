@@ -1,8 +1,7 @@
 # Simple Bitcoin_App with MobX 
 
-A new Flutter project.
 
 ## Getting Started
-<img src="https://github.com/div-simform/Practical_7_Mob/assets/125264375/87633bde-eb70-4262-ae0e-000c528b532d" height="450" width="250" />
-<img src="https://github.com/div-simform/Practical_7_Mob/assets/125264375/3595a0a8-4fec-48f4-ac74-ed0b86360b6d" height="450" width="250" />
-<img src="https://github.com/div-simform/Practical_7_Mob/assets/125264375/6a832a03-4696-44ce-8581-e7455657ab2b" height="450" width="250" />
+<img src="https://github.com/divyang-simformsoftware/Practical_7_MobX/assets/125264375/e0f7dec9-1501-4542-a39b-a6e0b3dbd8c8" height="450" width="250" />
+<img src="https://github.com/divyang-simformsoftware/Practical_7_MobX/assets/125264375/3f73e096-514e-4147-8da2-c01fcdcdc660" height="450" width="250" />
+<img src="https://github.com/divyang-simformsoftware/Practical_7_MobX/assets/125264375/1d98bc09-0eac-43cd-9f19-0f8b30b1dd12" height="450" width="250" />
